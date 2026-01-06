@@ -1,0 +1,23 @@
+# SQL Analysis – BI Capstone Project
+
+Ce dossier contient les requêtes SQL utilisées pour analyser les performances commerciales
+dans le cadre du projet Capstone IBM Business Intelligence. 
+
+
+## Structure des requêtes
+
+- 01_sales_performance_by_city.sql  
+  Analyse des ventes et revenus totaux par ville.
+
+- 02_monthly_sales_by_city_rollup.sql  
+  Agrégation mensuelle des ventes avec rollup par ville (détail + total).
+
+- 03_product_hierarchy_sales_rollup.sql
+  Analyse des ventes par niveaux hiérarchiques des produits (hierarchy2 → hierarchy3).
+
+- 04_store_monthly_sales_rollup.sql
+  Agrégation mensuelle des ventes avec rollup par magasin.
+
+## Notes
+- Les requêtes ont été exécutées à l'aide de PostgreSQL.
+- Des captures d'écran des soumissions originales sur Coursera sont disponibles dans le fichier 'Screenshot.sql' pour le référencement.
